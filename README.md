@@ -1,8 +1,10 @@
-### Hi there 👋, Kaviarasu S
+### Hi there 👋, I'm Kaviarasu
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://raw.githubusercontent.com/thisisvillegas/BigCommerceDevsCommunityImages/main/SpaceMan.png)
 
 I'm Kaviarasu from India, and I do Full Stack Web Development. I really enjoy learning languages and frameworks like React and React Native. You can check my twitter at twitter.com/kaviarasu_ns.
+
+
 
 Skills: REACT / JS / MongoDB/ Node.js  / HTML / CSS
 
