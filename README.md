@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<img src=”https://raw.githubusercontent.com/thisisvillegas/BigCommerceDevsCommunityImages/main/SpaceMan.png” alt=”space man dev” width=”200"/>
+I'm Kaviarasu from India, and I do Full Stack Web Development. I really enjoy learning languages and frameworks like React and React Native. You can check my twitter at twitter.com/kaviarasu_ns.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaviarasuns)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **kaviarasuns/kaviarasuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
