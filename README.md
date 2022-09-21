@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kaviarasu
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://raw.githubusercontent.com/thisisvillegas/BigCommerceDevsCommunityImages/main/SpaceMan.png)
+![Full Stack Web Developer](https://cdn.autonomous.ai/static/upload/images/new_post/which-desk-setup-is-best-for-a-developer-379-1602744788208.jpg)
 
 I'm Kaviarasu from India, and I do Full Stack Web Development. I really enjoy learning languages and frameworks like React and React Native. You can check my twitter at twitter.com/kaviarasu_ns.
 
