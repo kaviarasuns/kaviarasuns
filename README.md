@@ -9,7 +9,7 @@ Skills: REACT / JS / MongoDB/ Node.js / HTML / CSS
 
 
   View Resume
-[<img src='https://png.pngtree.com/png-vector/20190501/ourlarge/pngtree-vector-resume-icon-png-image_1018862.jpg' alt='r' height='40'>](https://drive.google.com/file/d/1FUVp-F2mQkPM3pgbLJU7pZDmIOu8dWo-/view)
+[<img src='https://png.pngtree.com/png-vector/20190501/ourlarge/pngtree-vector-resume-icon-png-image_1018862.jpg' alt='r' height='40' target="_blank">](https://drive.google.com/file/d/1FUVp-F2mQkPM3pgbLJU7pZDmIOu8dWo-/view)
 
 
 
