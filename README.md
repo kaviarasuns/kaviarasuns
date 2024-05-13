@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kaviarasu
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://camo.githubusercontent.com/61bd94fea8f8fb3bf56c98bb4d944df5cd867a712d4bd84ed5c11f775f7582b9/68747470733a2f2f63646e2e6175746f6e6f6d6f75732e61692f7374617469632f75706c6f61642f696d616765732f6e65775f706f73742f77686963682d6465736b2d73657475702d69732d626573742d666f722d612d646576656c6f7065722d3337392d313630323734343738383230382e6a7067)
+![Full Stack Web Developer](https://kaviarasu.me)
 
 I'm Kaviarasu from India, and I do Full Stack Web Development. I really enjoy learning languages and frameworks like React and React Native. You can check my twitter at twitter.com/kaviarasu_ns.
 
